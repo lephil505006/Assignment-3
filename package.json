@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/lephil505006/Assignment-3#readme",
   "dependencies": {
+    "azure": "^2.3.1-preview",
+    "azure-storage": "^2.10.7",
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "express-fileupload": "^1.4.2",
